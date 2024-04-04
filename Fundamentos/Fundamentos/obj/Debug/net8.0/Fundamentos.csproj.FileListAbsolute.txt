@@ -1,0 +1,14 @@
+C:\Users\marco\Desktop\Fundamentos do C#\Fundamentos\Fundamentos\bin\Debug\net8.0\Fundamentos.exe
+C:\Users\marco\Desktop\Fundamentos do C#\Fundamentos\Fundamentos\bin\Debug\net8.0\Fundamentos.deps.json
+C:\Users\marco\Desktop\Fundamentos do C#\Fundamentos\Fundamentos\bin\Debug\net8.0\Fundamentos.runtimeconfig.json
+C:\Users\marco\Desktop\Fundamentos do C#\Fundamentos\Fundamentos\bin\Debug\net8.0\Fundamentos.dll
+C:\Users\marco\Desktop\Fundamentos do C#\Fundamentos\Fundamentos\bin\Debug\net8.0\Fundamentos.pdb
+C:\Users\marco\Desktop\Fundamentos do C#\Fundamentos\Fundamentos\obj\Debug\net8.0\Fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\Desktop\Fundamentos do C#\Fundamentos\Fundamentos\obj\Debug\net8.0\Fundamentos.AssemblyInfoInputs.cache
+C:\Users\marco\Desktop\Fundamentos do C#\Fundamentos\Fundamentos\obj\Debug\net8.0\Fundamentos.AssemblyInfo.cs
+C:\Users\marco\Desktop\Fundamentos do C#\Fundamentos\Fundamentos\obj\Debug\net8.0\Fundamentos.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\Fundamentos do C#\Fundamentos\Fundamentos\obj\Debug\net8.0\Fundamentos.dll
+C:\Users\marco\Desktop\Fundamentos do C#\Fundamentos\Fundamentos\obj\Debug\net8.0\refint\Fundamentos.dll
+C:\Users\marco\Desktop\Fundamentos do C#\Fundamentos\Fundamentos\obj\Debug\net8.0\Fundamentos.pdb
+C:\Users\marco\Desktop\Fundamentos do C#\Fundamentos\Fundamentos\obj\Debug\net8.0\Fundamentos.genruntimeconfig.cache
+C:\Users\marco\Desktop\Fundamentos do C#\Fundamentos\Fundamentos\obj\Debug\net8.0\ref\Fundamentos.dll
